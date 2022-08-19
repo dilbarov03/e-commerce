@@ -134,7 +134,7 @@ dmypy.json
 *.pot
 *.pyc
 __pycache__
-media
+
 
 # Backup files # 
 *.bak 
